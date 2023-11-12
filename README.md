@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diana Vélez
-- 👀 I’m interested in 
+- 📚 I´m currently studying Data Science at IPN
 - 🌱 I’m currently learning Python
 
 
